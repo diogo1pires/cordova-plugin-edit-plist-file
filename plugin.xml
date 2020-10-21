@@ -30,7 +30,7 @@
     <!-- ios -->
     <platform name="ios">
          <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-             <string>We access your camera to scan barcodes of the bundles</string>
+             <string>We access your camera to scan barcodes</string>
          </config-file>
         
         
